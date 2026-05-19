@@ -1,0 +1,6 @@
+program test;
+begin
+  var x: integer;
+  x := 5;
+  writeln(x);
+end.
