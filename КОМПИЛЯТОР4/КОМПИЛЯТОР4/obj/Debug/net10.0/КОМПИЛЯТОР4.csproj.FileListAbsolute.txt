@@ -1,0 +1,14 @@
+C:\Users\sterh\source\repos\КОМПИЛЯТОР4\КОМПИЛЯТОР4\obj\Debug\net10.0\КОМПИЛЯТОР4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sterh\source\repos\КОМПИЛЯТОР4\КОМПИЛЯТОР4\obj\Debug\net10.0\КОМПИЛЯТОР4.AssemblyInfoInputs.cache
+C:\Users\sterh\source\repos\КОМПИЛЯТОР4\КОМПИЛЯТОР4\obj\Debug\net10.0\КОМПИЛЯТОР4.AssemblyInfo.cs
+C:\Users\sterh\source\repos\КОМПИЛЯТОР4\КОМПИЛЯТОР4\obj\Debug\net10.0\КОМПИЛЯТОР4.csproj.CoreCompileInputs.cache
+C:\Users\sterh\source\repos\КОМПИЛЯТОР4\КОМПИЛЯТОР4\bin\Debug\net10.0\КОМПИЛЯТОР4.exe
+C:\Users\sterh\source\repos\КОМПИЛЯТОР4\КОМПИЛЯТОР4\bin\Debug\net10.0\КОМПИЛЯТОР4.deps.json
+C:\Users\sterh\source\repos\КОМПИЛЯТОР4\КОМПИЛЯТОР4\bin\Debug\net10.0\КОМПИЛЯТОР4.runtimeconfig.json
+C:\Users\sterh\source\repos\КОМПИЛЯТОР4\КОМПИЛЯТОР4\bin\Debug\net10.0\КОМПИЛЯТОР4.dll
+C:\Users\sterh\source\repos\КОМПИЛЯТОР4\КОМПИЛЯТОР4\bin\Debug\net10.0\КОМПИЛЯТОР4.pdb
+C:\Users\sterh\source\repos\КОМПИЛЯТОР4\КОМПИЛЯТОР4\obj\Debug\net10.0\КОМПИЛЯТОР4.dll
+C:\Users\sterh\source\repos\КОМПИЛЯТОР4\КОМПИЛЯТОР4\obj\Debug\net10.0\refint\КОМПИЛЯТОР4.dll
+C:\Users\sterh\source\repos\КОМПИЛЯТОР4\КОМПИЛЯТОР4\obj\Debug\net10.0\КОМПИЛЯТОР4.pdb
+C:\Users\sterh\source\repos\КОМПИЛЯТОР4\КОМПИЛЯТОР4\obj\Debug\net10.0\КОМПИЛЯТОР4.genruntimeconfig.cache
+C:\Users\sterh\source\repos\КОМПИЛЯТОР4\КОМПИЛЯТОР4\obj\Debug\net10.0\ref\КОМПИЛЯТОР4.dll

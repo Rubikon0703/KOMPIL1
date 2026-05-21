@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{115157C9-9F18-74A3-387E-5C3BCBD1BC01}|\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\inputoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{115157C9-9F18-74A3-387E-5C3BCBD1BC01}|\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E.csproj|c:\\users\\sterh\\source\\repos\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{115157C9-9F18-74A3-387E-5C3BCBD1BC01}|\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{115157C9-9F18-74A3-387E-5C3BCBD1BC01}|\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E.csproj|c:\\users\\sterh\\source\\repos\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\errortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{115157C9-9F18-74A3-387E-5C3BCBD1BC01}|\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\errortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{115157C9-9F18-74A3-387E-5C3BCBD1BC01}|\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E.csproj|c:\\users\\sterh\\source\\repos\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{115157C9-9F18-74A3-387E-5C3BCBD1BC01}|\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,16 +26,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ErrorTable.cs",
               "DocumentMoniker": "C:\\Users\\sterh\\source\\repos\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\ErrorTable.cs",
               "RelativeDocumentMoniker": "\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\ErrorTable.cs",
               "ToolTip": "C:\\Users\\sterh\\source\\repos\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\ErrorTable.cs",
               "RelativeToolTip": "\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\ErrorTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAgwGYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T11:39:19.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T11:39:19.605Z"
             },
             {
               "$type": "Document",
@@ -45,23 +44,22 @@
               "RelativeDocumentMoniker": "\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\InputOutput.cs",
               "ToolTip": "C:\\Users\\sterh\\source\\repos\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\InputOutput.cs",
               "RelativeToolTip": "\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\InputOutput.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAADwv8EAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAALcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T11:00:32.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sterh\\source\\repos\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\Program.cs",
               "RelativeDocumentMoniker": "\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\Program.cs",
               "ToolTip": "C:\\Users\\sterh\\source\\repos\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\Program.cs",
               "RelativeToolTip": "\u041A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwBYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T10:59:50.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T10:59:50.133Z"
             }
           ]
         }

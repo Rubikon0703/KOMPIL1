@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sterh\\source\\repos\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F069B818-8C66-DE39-7434-BF9117814EB6}|\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204.csproj|c:\\users\\sterh\\source\\repos\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F069B818-8C66-DE39-7434-BF9117814EB6}|\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F069B818-8C66-DE39-7434-BF9117814EB6}|\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204.csproj|c:\\users\\sterh\\source\\repos\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F069B818-8C66-DE39-7434-BF9117814EB6}|\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F069B818-8C66-DE39-7434-BF9117814EB6}|\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204.csproj|c:\\users\\sterh\\source\\repos\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\symboltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F069B818-8C66-DE39-7434-BF9117814EB6}|\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\symboltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F069B818-8C66-DE39-7434-BF9117814EB6}|\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204.csproj|c:\\users\\sterh\\source\\repos\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F069B818-8C66-DE39-7434-BF9117814EB6}|\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F069B818-8C66-DE39-7434-BF9117814EB6}|\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204.csproj|c:\\users\\sterh\\source\\repos\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F069B818-8C66-DE39-7434-BF9117814EB6}|\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F069B818-8C66-DE39-7434-BF9117814EB6}|\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204.csproj|c:\\users\\sterh\\source\\repos\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\keywords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F069B818-8C66-DE39-7434-BF9117814EB6}|\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\keywords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F069B818-8C66-DE39-7434-BF9117814EB6}|\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204.csproj|c:\\users\\sterh\\source\\repos\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\compilationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F069B818-8C66-DE39-7434-BF9117814EB6}|\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\compilationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F069B818-8C66-DE39-7434-BF9117814EB6}|\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204.csproj|c:\\users\\sterh\\source\\repos\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\lexicalanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F069B818-8C66-DE39-7434-BF9117814EB6}|\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204.csproj|solutionrelative:\u043A\u043E\u043C\u043F\u0438\u043B\u044F\u0442\u043E\u04404\\lexicalanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sterh\\source\\repos\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Program.cs",
+              "RelativeDocumentMoniker": "\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Program.cs",
+              "ToolTip": "C:\\Users\\sterh\\source\\repos\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Program.cs*",
+              "RelativeToolTip": "\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T15:51:15.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompilationError.cs",
+              "DocumentMoniker": "C:\\Users\\sterh\\source\\repos\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\CompilationError.cs",
+              "RelativeDocumentMoniker": "\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\CompilationError.cs",
+              "ToolTip": "C:\\Users\\sterh\\source\\repos\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\CompilationError.cs",
+              "RelativeToolTip": "\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\CompilationError.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T15:49:58.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Keywords.cs",
+              "DocumentMoniker": "C:\\Users\\sterh\\source\\repos\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Keywords.cs",
+              "RelativeDocumentMoniker": "\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Keywords.cs",
+              "ToolTip": "C:\\Users\\sterh\\source\\repos\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Keywords.cs",
+              "RelativeToolTip": "\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Keywords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:25:51.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lexer.cs",
+              "DocumentMoniker": "C:\\Users\\sterh\\source\\repos\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Lexer.cs",
+              "RelativeDocumentMoniker": "\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Lexer.cs",
+              "ToolTip": "C:\\Users\\sterh\\source\\repos\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Lexer.cs",
+              "RelativeToolTip": "\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Lexer.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAwwA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:24:15.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Users\\sterh\\source\\repos\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Parser.cs",
+              "RelativeDocumentMoniker": "\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Parser.cs",
+              "ToolTip": "C:\\Users\\sterh\\source\\repos\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Parser.cs",
+              "RelativeToolTip": "\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Parser.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwG0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T04:47:01.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\sterh\\source\\repos\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Token.cs",
+              "RelativeDocumentMoniker": "\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Token.cs",
+              "ToolTip": "C:\\Users\\sterh\\source\\repos\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Token.cs",
+              "RelativeToolTip": "\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\Token.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:24:08.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SymbolTable.cs",
+              "DocumentMoniker": "C:\\Users\\sterh\\source\\repos\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\SymbolTable.cs",
+              "RelativeDocumentMoniker": "\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\SymbolTable.cs",
+              "ToolTip": "C:\\Users\\sterh\\source\\repos\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\SymbolTable.cs",
+              "RelativeToolTip": "\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\SymbolTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:22:01.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LexicalAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\sterh\\source\\repos\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\LexicalAnalyzer.cs",
+              "RelativeDocumentMoniker": "\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\LexicalAnalyzer.cs",
+              "ToolTip": "C:\\Users\\sterh\\source\\repos\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\LexicalAnalyzer.cs",
+              "RelativeToolTip": "\u041A\u041E\u041C\u041F\u0418\u041B\u042F\u0422\u041E\u04204\\LexicalAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:21:41.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
